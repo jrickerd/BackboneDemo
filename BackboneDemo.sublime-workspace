@@ -1,0 +1,214 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jrickerd/Code/resume/resume.md",
+		"/home/jrickerd/Code/resume/Makefile",
+		"/home/jrickerd/Code/resume/resume.css",
+		"/home/jrickerd/Code/resume/resume.py",
+		"/home/jrickerd/Code/resume/make",
+		"/home/jrickerd/.teamocil/noda",
+		"/home/jrickerd/Code/noda/app/config/deploy.rb",
+		"/home/jrickerd/Code/noda/composer.json",
+		"/home/jrickerd/.config/sublime-text-2/Packages/Alignment/Base File.sublime-settings",
+		"/home/jrickerd/Code/noda/app/config/parameters.default.ini",
+		"/home/jrickerd/Code/noda/app/config/deploy/noda.rb",
+		"/home/jrickerd/.config/sublime-text-2/Packages/Alignment/Default (Linux).sublime-keymap",
+		"/home/jrickerd/Code/PHASE2B_V0.13_0501_live_deploy/web/app_dev.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/sensio/",
+			"sensio",
+			"sension",
+			"web1",
+			"resume",
+			":**",
+			"é",
+			"baseur",
+			"extjs",
+			"pathtoproject",
+			"C:/Users/jrickerd/Code/amazon"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"e"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"composer.lo",
+				"composer.lock"
+			],
+			[
+				"deploy.rb",
+				"app/config/deploy.rb"
+			],
+			[
+				"par",
+				"app/config/parameters.ini"
+			],
+			[
+				"para",
+				"app/config/parameters.ini"
+			],
+			[
+				"param",
+				"app/config/parameters.default.ini"
+			],
+			[
+				"noda.r",
+				"app/config/deploy/noda.rb"
+			],
+			[
+				"deploy.",
+				"app/config/deploy.rb"
+			],
+			[
+				"composer.j",
+				"composer.json"
+			],
+			[
+				"app_dev",
+				"web/app_dev.php"
+			],
+			[
+				"config.yml",
+				"app/config/config.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true
+}
